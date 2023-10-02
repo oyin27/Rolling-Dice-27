@@ -1,0 +1,16 @@
+button {
+    font-size: x-large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: aqua;
+    color: crimson;
+}
+
+body {
+    background-color: blanchedalmond;
+}
+
+p {
+    font-size: large;
+    font-family: Arial, Helvetica, sans-serif;
+    color: brown;
+}
